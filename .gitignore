@@ -1,0 +1,6 @@
+elm-stuff/
+elm.js
+bingo.js
+node_modules/
+server/node_modules
+.DS_STore
